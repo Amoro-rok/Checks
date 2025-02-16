@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\roman\\Desktop\\CSH\\BarCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92F1B1D9-C043-4908-BFB9-3DE8F68BCCA8}|BarCode\\BarCode.csproj|c:\\users\\roman\\desktop\\csh\\barcode\\barcode\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{92F1B1D9-C043-4908-BFB9-3DE8F68BCCA8}|BarCode\\BarCode.csproj|C:\\Users\\roman\\Desktop\\CSH\\BarCode\\barcode\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{92F1B1D9-C043-4908-BFB9-3DE8F68BCCA8}|BarCode\\BarCode.csproj|solutionrelative:barcode\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{92F1B1D9-C043-4908-BFB9-3DE8F68BCCA8}|BarCode\\BarCode.csproj|solutionrelative:barcode\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92F1B1D9-C043-4908-BFB9-3DE8F68BCCA8}|BarCode\\BarCode.csproj|C:\\Users\\roman\\Desktop\\CSH\\BarCode\\barcode\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92F1B1D9-C043-4908-BFB9-3DE8F68BCCA8}|BarCode\\BarCode.csproj|c:\\users\\roman\\desktop\\csh\\barcode\\barcode\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92F1B1D9-C043-4908-BFB9-3DE8F68BCCA8}|BarCode\\BarCode.csproj|solutionrelative:barcode\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "BarCode\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\roman\\Desktop\\CSH\\BarCode\\BarCode\\MainWindow.xaml.cs",
               "RelativeToolTip": "BarCode\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAiwFQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwJ4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T06:35:52.494Z",
               "EditorCaption": ""
@@ -57,13 +57,13 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "d09befe8-2b4d-408d-86e8-1c846d310673",
+        "Id": "8e5077ac-5d27-4333-ae40-4b26caa883ad",
         "Display": 0,
-        "X": 872,
-        "Y": 210,
-        "Width": 947,
-        "Height": 700,
-        "WindowState": 0
+        "X": 458,
+        "Y": 157,
+        "Width": 962,
+        "Height": 600,
+        "WindowState": 2
       },
       "DocumentGroups": [
         {
@@ -78,9 +78,9 @@
               "RelativeDocumentMoniker": "BarCode\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\roman\\Desktop\\CSH\\BarCode\\BarCode\\MainWindow.xaml",
               "RelativeToolTip": "BarCode\\MainWindow.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAArwGEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-12T17:26:38.156Z",
+              "WhenOpened": "2025-02-16T20:59:31.608Z",
               "EditorCaption": ""
             }
           ]
